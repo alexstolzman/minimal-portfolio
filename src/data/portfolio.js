@@ -1,14 +1,7 @@
 export default [
     {
-        title: 'Developer Portfolio',
-        imgUrl: ' ',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: ''
-
-    },
-    {
         title: 'Unusual Articles Wikipedia',
-        imgUrl: ' ',
+        imgUrl: '/src/img/unusualarticles.jpg', 
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://github.com/alexstolzman/unusual-articles'
     },
@@ -16,6 +9,6 @@ export default [
         title: 'US Counties Dashboard',
         imgUrl: '',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: ''
+        link: 'https://github.com/alexstolzman/us-county-dashboard'
     }
 ]
