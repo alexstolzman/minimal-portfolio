@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Unusual Articles Wikipedia',
-        imgUrl: 'img/unusualarticles.jpg', 
+        imgUrl: 'assets/unusualarticles.jpg', 
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://github.com/alexstolzman/unusual-articles'
     },
