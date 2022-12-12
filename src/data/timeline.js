@@ -6,9 +6,9 @@ export default [
         details: "Intern for the Web Ordering team at Digikey Electronics"
     },
     {
-        year: "2021",
+        year: "December 2021",
         title: "Applied Mathematics and Computer Science Major",
         duration: "3.5 years",
-        details: "Graduated from the University of Wisconsin Stout."
+        details: "Attended the University of Wisconsin Stout and graduated in December 2021."
     }
 ]

@@ -7,7 +7,7 @@ export default [
     },
     {
         title: 'US Counties Dashboard',
-        imgUrl: '',
+        imgUrl: 'assets/uscounties2.jpg',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://github.com/alexstolzman/us-county-dashboard'
     }
