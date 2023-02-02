@@ -10,5 +10,10 @@ export default [
         title: "Applied Mathematics and Computer Science Major",
         duration: "3.5 years",
         details: "Attended the University of Wisconsin Stout and graduated in December 2021."
+    },
+    {
+        year: "2022-Current",
+        title: "Independent Developer",
+        details: "Took a break after graduating. Working on independent projects and finding a job."
     }
 ]
