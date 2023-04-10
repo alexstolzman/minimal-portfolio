@@ -12,9 +12,15 @@ export default [
         link: 'https://github.com/alexstolzman/us-county-dashboard'
     },
       {
-        title: 'Asronomy Photo of the Day by Year',
+        title: 'Astronomy Photo of the Day by Year',
         imgUrl: 'assets/apod.jpg',
         stack: ['React', 'APOD API'],
         link: 'https://github.com/alexstolzman/apod-by-year'
+    },
+     {
+        title: 'Board Game Stats',
+        imgUrl: 'assets/bgstats.png',
+        stack: ['React', 'React Router'],
+        link: 'https://github.com/alexstolzman/board-game-viewer'
     }
 ]
